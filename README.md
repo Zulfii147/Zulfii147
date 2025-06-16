@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulfii147" alt="zulfii147" /></a> </p>
 
-- 🔭 I’m currently working on **ETIHAD-CRM**
+- 🔭 I’m currently working at **Inbound Agency**
 
 - 🌱 I’m currently learning **DevOps**
 
