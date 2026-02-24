@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfii147&label=Profile%20views&color=0e75b6&style=flat" alt="zulfii147" /> </p>
 
-- 🔭 I’m currently working at **Inbound Agency**
+- 🔭 I’m currently working at **Huruf Tech Pvt Limited**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Deno and Ionic Framework**
 
 - 💬 Ask me about **react,next and node js**
 
