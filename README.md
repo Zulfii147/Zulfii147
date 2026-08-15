@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deno and Ionic Framework**
 
-- 💬 Ask me about **react,next , deno and node js**
+- 💬 Ask me about **react , next , deno and node js**
 
 - 📫 How to reach me **Zulfiqarh61@gmail.com**
 
